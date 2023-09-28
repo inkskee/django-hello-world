@@ -1,7 +1,7 @@
 # example/views.py
 
 
-from django.http import HttpResponse
+from django.http import HttpResponse templates
 
 def index(request):
   
