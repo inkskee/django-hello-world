@@ -1,8 +1,8 @@
 # example/views.py
 
 
-from django.http import HttpResponse
+from django.http import HttpResponse, render
 
 def index(request):
   
-    return HttpResponse("rush.html")
+    return render(request,"rush.html")
