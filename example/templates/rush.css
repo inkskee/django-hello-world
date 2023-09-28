@@ -1,0 +1,131 @@
+
+.mottosks{
+  font-size: 1.875rem;
+  color: black;
+}
+
+.mottotpn{
+  font-size: 1.875rem;
+  color: black;
+}
+
+li a:hover
+{
+ background-color: pink;
+
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0 auto;
+    overflow: hidden;
+    background-color: rgb(33, 6, 98);
+    position: fixed;
+    top: 0%;
+    width:100% ;
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 0.875rem 1rem;
+    text-decoration: none;
+  }
+  
+.home {
+    background-size:contain;
+    background-color:rgb(227, 221, 224);
+  
+  }
+.homewelcome
+{
+margin-top:3.125rem;
+text-align: center;
+}
+.sc-img {
+width: 50%;
+height: 40%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.first-img{
+    margin-top: 3.125rem;
+}
+
+.school-clr{
+    background-size:contain;
+    background-color:rgb(251, 251, 251);
+}
+
+.sk-logo{
+  width: 35%; 
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tpn-logo{
+  width: 28%;
+  height: 13%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headersks{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    cursor: pointer;
+    font-size: 1.875rem;
+    text-align: center;
+    background-image: linear-gradient(45deg, #61c1ed, #e35fe3 );
+    border-radius: 0.938rem;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.headertpn {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    cursor: pointer;
+    font-size: 1.875rem;
+    text-align: center;
+    background-image: linear-gradient(45deg, #10196b, #e35fe3 );
+    border-radius: 0.938rem;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.historysks {
+  font-size: 1.375rem;
+  text-align: center;
+}
+
+.headerhistorysks {
+  font-size: 1.875rem;
+}
+
+.historytpn {
+  font-size: 1.375rem;
+}
+
+.headerhistorytpn {
+  font-size: 1.875rem;
+}
+
+  
+  
+  
+  
+  
+
+
